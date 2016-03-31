@@ -7,7 +7,8 @@ void drawCharSquare(char **square, int n);
 
 int main(int argc, char **argv)
 {
-	int n,m;
+	int n;
+	int m;
 	
 	scanf("%d%d",&n,&m);
 	srand(m);
